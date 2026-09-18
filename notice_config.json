@@ -1,0 +1,16 @@
+{
+  "enabled": true,
+  "version": "1.1.0",
+  "title": "New Update Available!",
+  "message": "Update JOYFLIX now for more movies, anime series, faster multi-dub servers & smoother playback.",
+  "features": [
+    "🔥 10,000+ New 4K Movies & Anime Added",
+    "⚡ Faster Ultra-Low Latency Multi-Dub Servers",
+    "📱 Mobile Video Player Auto-Rotate & Fullscreen",
+    "🚀 Faster Buffer & Instant Seek Performance"
+  ],
+  "buttonText": "Update Now",
+  "downloadUrl": "https://joyflix.fun/download",
+  "githubUrl": "https://github.com/jehadjoy15-stack/joyflix/releases",
+  "remindLaterHours": 24
+}
